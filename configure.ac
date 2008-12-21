@@ -9,8 +9,11 @@ AC_CONFIG_HEADER([config.h])
 # Checks for programs.
 AC_PROG_CXX
 AC_PROG_CC
+AC_LANG([C++])
+AC_PROG_LIBTOOL
 
 # Checks for libraries.
+AM_INIT_AUTOMAKE([1.9 dist-bzip2 dist-zip foreign subdir-objects])
 
 # Checks for header files.
 AC_HEADER_STDC
