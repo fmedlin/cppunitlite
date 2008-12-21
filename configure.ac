@@ -2,7 +2,7 @@
 # Process this file with autoconf to produce a configure script.
 
 AC_PREREQ(2.61)
-AC_INIT(FULL-PACKAGE-NAME, VERSION, BUG-REPORT-ADDRESS)
+AC_INIT([CppUnitLite C++ Test Framework], [0.9.0], [notyet@example.org])
 AC_CONFIG_SRCDIR([include/cppunitlite/Failure.h])
 AC_CONFIG_HEADER([config.h])
 
