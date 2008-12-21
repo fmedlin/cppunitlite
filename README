@@ -1,0 +1,1 @@
+Starting with the original ObjectMentor download, this framework needs some configure love in order to build it for inclusion into other projects. Something along the lines of how Google Test is being distributed.
