@@ -3,6 +3,7 @@
 *.log
 *.m4
 config.*
+configure
 configure.scan
 .deps/
 .libs/
