@@ -15,11 +15,11 @@ lib_libcppunitlite_la_SOURCES = src/Failure.cpp \
                                 src/TestRegistry.cpp \
                                 src/TestResult.cpp
                                 
-pkginclude_HEADERS = include/cppunitlite/Failure.h \
-                     include/cppunitlite/SimpleString.h \
-                     include/cppunitlite/Test.h \
-                     include/cppunitlite/TestHarness.h \
-                     include/cppunitlite/TestRegistry.h \
-                     include/cppunitlite/TestResult.h
+pkginclude_HEADERS = include/Failure.h \
+                     include/SimpleString.h \
+                     include/Test.h \
+                     include/TestHarness.h \
+                     include/TestRegistry.h \
+                     include/TestResult.h
 
 
